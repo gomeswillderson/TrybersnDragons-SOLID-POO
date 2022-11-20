@@ -3,7 +3,7 @@ interface Energy {
   amount: number;
 }
 
-type EnergyType = 'mana' | 'stamina';
+type EnergyType = 'stamina' | 'mana';
 
 export { EnergyType };
 export default Energy;
