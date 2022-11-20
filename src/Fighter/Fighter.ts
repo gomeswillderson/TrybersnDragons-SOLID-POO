@@ -2,7 +2,7 @@ import Energy from '../Energy';
 
 interface Fighter {
   lifePoints: number;
-  strngth: number;
+  strength: number;
   defense: number;
   energy?: Energy;
 
